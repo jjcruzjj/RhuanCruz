@@ -1,0 +1,72 @@
+/* Estilo para um botão padrão */
+.button {
+    -fx-background-color: #c09f83;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+/* Estilo para um botão quando o mouse passa por cima (hover) */
+.button:hover {
+    -fx-background-color: rgb(85, 5, 5);
+}
+
+.rounded-button {
+    -fx-background-color: #301b03;
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-font-size: 11px;
+    -fx-padding: 10 20;
+    -fx-background-radius: 20;
+}
+
+.table-cell:selected {
+    -fx-background-color: #001c2e;
+    -fx-text-fill: white;
+}
+
+/* Botão Padrão */
+.button-3d {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s;
+}
+
+/* Efeito de clique */
+.button-3d:active {
+    transform: translateY(2px);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+}
+
+#layout {
+    -fx-background-color: #020231; /* Navy blue */
+}
+
+/* Altera o fundo do TextField para azul escuro */
+
+/* Estilo personalizado para o TextField */
+.text-field-custom {
+    -fx-background-color: #00eeff; /* Cor de fundo cinza claro */
+    -fx-text-fill: #ffffff; /* Cor do texto preto */
+    -fx-border-color: #00fff2; /* Cor da borda cinza escuro */
+    -fx-border-width: 3px; /* Largura da borda */
+    -fx-border-radius: 5px; /* Raio da borda */
+}
+
+.TelaInicial {
+    -fx-background-color: #000331; /* Cor de fundo vermelha */
+}
+
+.label-custom {
+    -fx-text-fill: #ffffff;
+}
+
+

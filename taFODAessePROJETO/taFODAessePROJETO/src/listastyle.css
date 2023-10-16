@@ -1,0 +1,18 @@
+/* Defina o estilo para os itens da lista */
+.list-cell {
+    -fx-background-color: rgba(255, 255, 255, 0);
+    -fx-font-size: 16px;
+    -fx-text-fill: rgb(255, 255, 255);
+}
+
+/* Defina o estilo para os itens selecionados */
+.list-cell:selected {
+    -fx-background-color: rgba(163, 73, 0, 0.767);
+    -fx-text-fill: rgb(255, 255, 255);
+}
+
+/* Defina o estilo para o foco do mouse */
+.list-cell:focused {
+    -fx-background-color: rgb(180, 119, 5);
+    -fx-text-fill: rgb(255, 255, 255);
+}
