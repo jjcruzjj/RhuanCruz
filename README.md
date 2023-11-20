@@ -2,8 +2,6 @@
 
 👨‍💻- Amante de Programação
 
-⚡- Entusiasta da Tecnologia
-
 📚- Cursando Ciências da Computação no IFSP- Câmpus de São João da boa vista.
 
 Contato: 
