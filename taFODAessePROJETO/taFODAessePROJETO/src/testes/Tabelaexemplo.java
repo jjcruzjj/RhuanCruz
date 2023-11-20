@@ -18,11 +18,11 @@ public class Tabelaexemplo extends Application {
 
         // Cria uma lista de objetos personalizados (por exemplo, Tarefa)
         ObservableList<Tarefa> tarefas = FXCollections.observableArrayList(
-            new Tarefa("Tarefa 1", "Descrição 1"),
-            new Tarefa("Tarefa 2", "Descrição 2"),
-            new Tarefa("Tarefa 3", "Descrição 3"),
-            new Tarefa("Tarefa 4", "Descrição 4"),
-            new Tarefa("Tarefa 5", "Descrição 5")
+            new Tarefa("Tarefa 1", "Descrição 1", false, false),
+            new Tarefa("Tarefa 2", "Descrição 2", false, false),
+            new Tarefa("Tarefa 3", "Descrição 3", false, false),
+            new Tarefa("Tarefa 4", "Descrição 4", false, false),
+            new Tarefa("Tarefa 5", "Descrição 5", false, false)
         );
 
         // Criei uma TableView
