@@ -1,6 +1,6 @@
 ## OLá, Bem vindo ao meu perfil, sou o Rhuan!
 
-👨‍💻- Amante de Programação
+👨‍💻-  Apaixonado por codar, aprender novas ferramentas e tecnologias e estar sempre à frente do que há de mais atual no mercado de programação.
 
 📚- Cursando Ciências da Computação no IFSP- Câmpus de São João da boa vista.
 
