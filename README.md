@@ -1,6 +1,5 @@
-## OLá, Bem vindo ao meu perfil, sou o Rhuan!
+## Olá, Bem vindo ao meu perfil, sou o Rhuan!
 
-👨‍💻-  Apaixonado por codar, aprender novas ferramentas e tecnologias e estar sempre à frente do que há de mais atual no mercado de programação.
 
 Contato: 
 <div>
