@@ -2,8 +2,6 @@
 
 👨‍💻-  Apaixonado por codar, aprender novas ferramentas e tecnologias e estar sempre à frente do que há de mais atual no mercado de programação.
 
-📚- Cursando Ciências da Computação no IFSP- Câmpus de São João da boa vista.
-
 Contato: 
 <div>
   <a href="https://www.instagram.com/rhuancruz.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
